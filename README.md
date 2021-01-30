@@ -1,6 +1,7 @@
 # Техническое задание:
 У вас в проекте есть 2 папки (mocData и plugins)
-
+ссылка на дизайн:
+https://www.figma.com/file/n8HDTnqFcaNz0tD4DMARpQ/table?node-id=0%3A1&viewport=497%2C395%2C1
 
 mocData - содержит файл index.js в котором есть массив данных, с которыми вам нужно работать
 
