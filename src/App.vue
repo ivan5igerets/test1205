@@ -3,13 +3,19 @@
     <img alt="Vue logo" src="./assets/peiko-logo-mini.png">
     <h1>Test</h1>
     <hr>
+    
+    <TestTask />
   </div>
 </template>
 
 <script>
+import TestTask from '@/components/Test-task'
 
 export default {
-  name: 'App'
+  name: 'App',
+  components: {
+    TestTask
+  }
 }
 </script>
 
